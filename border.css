@@ -1,8 +1,8 @@
 #div1{
 	        border-style: dotted;
 	        border-color: #909497;
-	        margin: 15%;
-	        padding: 12px;
+	        margin: 5%;
+	        padding: 5px;
         }
         #description{
         	font-family: 'Montserrat';
@@ -11,13 +11,18 @@
         	margin-top: 25px;
         	margin-bottom: 25px;
         }
+        table{
+            text-transform: uppercase;
+            letter-spacing: 4px;
+            text-align: center;
+        }
         body{
         	background-color: #9B59B6;
         }
         img{
         	height: 25%;
         	width: 25%;
-        	margin-left: 200px;
+        	margin-left: 100px;
         	margin-right: 100px;
         	border: 1px solid #ddd;
         	border-radius: 4px;
@@ -36,8 +41,8 @@
         	outline: 0;
         	display: inline-block;
         	padding: 12px;
-        	color: white;
-        	background-color: #95A5A6;
+        	color: black;
+        	background-color: #FBFCFC;
         	text-align: center;
         	cursor: pointer;
         	width: 100%;
